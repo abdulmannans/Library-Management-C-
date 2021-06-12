@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1611413904 source:d:\c++\library_management\library\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<fstream>
+	<vector>
+	<sstream>
+	<algorithm>
+	<stdio.h>
+
